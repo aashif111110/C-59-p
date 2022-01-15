@@ -1,0 +1,18 @@
+.line{
+    background-color: darkslategrey;
+    height: 5px;
+    width: 50px;
+    margin:auto;
+}
+body{
+    text-align: center;
+}
+.menu{
+    right: 30px;
+    top: 20px;
+    list-style: none;
+}
+.li1{
+    float: right;
+    margin-right: 6px;
+}
