@@ -3,6 +3,7 @@
     height: 5px;
     width: 50px;
     margin:auto;
+    margin-bottom: 10px;
 }
 body{
     text-align: center;
@@ -15,4 +16,14 @@ body{
 .li1{
     float: right;
     margin-right: 6px;
+}
+img:hover{
+    transform: scale(0.9);
+}
+img{
+    border-style: dashed;
+    padding: 5px;
+}
+#img1{
+    border-radius: 50px;
 }
